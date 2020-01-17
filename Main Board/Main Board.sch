@@ -303,4 +303,68 @@ F 3 "" H 5950 3900 50  0001 C CNN
 	1    5950 3900
 	0    1    1    0   
 $EndComp
+Text Label 8150 4400 0    50   ~ 0
+SCL
+Text Label 4400 3200 2    50   ~ 0
+SCL
+Text Label 8150 4300 0    50   ~ 0
+SDA
+Text Label 4400 3300 2    50   ~ 0
+SDA
+Text Label 4650 4350 2    50   ~ 0
+L_Motor_+
+Text Label 4650 5200 2    50   ~ 0
+L_Motor_+
+Text Label 4650 4450 2    50   ~ 0
+L_Motor_-
+Text Label 4650 5300 2    50   ~ 0
+L_Motor_-
+Text Label 4650 4750 2    50   ~ 0
+L_Encoder_A
+Text Label 7150 3500 2    50   ~ 0
+L_Encoder_A
+Text Label 5950 4800 2    50   ~ 0
+R_Encoder_A
+Text Label 7150 3600 2    50   ~ 0
+R_Encoder_A
+Text Label 4650 4850 2    50   ~ 0
+L_Encoder_B
+Text Label 5950 4900 2    50   ~ 0
+R_Encoder_B
+Text Label 7150 4400 2    50   ~ 0
+R_Encoder_B
+Text Label 7150 4500 2    50   ~ 0
+L_Encoder_B
+Text Label 5950 4400 2    50   ~ 0
+L_Motor_+
+Text Label 5950 4500 2    50   ~ 0
+L_Motor_-
+Text Label 5950 5250 2    50   ~ 0
+L_Motor_-
+Text Label 5950 5150 2    50   ~ 0
+L_Motor_+
+Text Label 6000 2700 2    50   ~ 0
+L_Enable
+Text Label 6000 2800 2    50   ~ 0
+L_IN_1
+Text Label 6000 2900 2    50   ~ 0
+L_IN_2
+Text Label 6500 2700 0    50   ~ 0
+R_Enable
+Text Label 6500 2800 0    50   ~ 0
+R_IN_1
+Text Label 6500 2900 0    50   ~ 0
+R_IN_2
+Text Label 7150 3700 2    50   ~ 0
+L_IN_1
+Text Label 7150 3800 2    50   ~ 0
+L_IN_2
+Text Label 7150 3900 2    50   ~ 0
+L_Enable
+Text Label 7150 4000 2    50   ~ 0
+R_IN_1
+Text Label 7150 4100 2    50   ~ 0
+R_IN_2
+Text Label 7150 4200 2    50   ~ 0
+R_Enable
 $EndSCHEMATC
